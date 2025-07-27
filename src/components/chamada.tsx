@@ -53,7 +53,7 @@ export const SessaoTerapia = () => {
         </div>
 
         <motion.a
-          href="https://wa.me/5541999999999?text=Olá, gostaria de agendar uma sessão de terapia"
+          href="https://wa.me/55419999999?text=Olá, gostaria de agendar uma sessão de terapia"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#6D7D68] text-white px-8 py-3 rounded-full shadow-lg hover:bg-[#5a6b56] transition duration-300 sm:text-xl"

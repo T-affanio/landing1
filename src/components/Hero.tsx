@@ -57,7 +57,7 @@ export function Hero() {
 
         {/* 🔗 Botão CTA */}
         <motion.a
-          href="#contato"
+          href="https://wa.me/55419999999?text=Olá, gostaria de agendar uma sessão de terapia"
           className="mt-8 inline-flex items-center px-6 py-3 text-white bg-[#5DAE8B] rounded-full shadow-lg hover:bg-[#4b997a] transition-all duration-300 font-medium text-base drop-shadow-[0_1px_1px_rgba(0,0,0,0.6)] md:text-lg md:mt-12"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
